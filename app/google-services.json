@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387224504869",
+    "project_id": "htech-nh",
+    "storage_bucket": "htech-nh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387224504869:android:62089ee91ea3e0efc98dcc",
+        "android_client_info": {
+          "package_name": "com.example.htech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387224504869-mq8ggh497l2d8suj5jl2r0kj1gpmcr4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYFCg7sICyX4rJbNbxU7nED15w591bnR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387224504869-mq8ggh497l2d8suj5jl2r0kj1gpmcr4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
